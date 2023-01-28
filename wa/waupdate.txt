@@ -1,7 +1,1 @@
-{
-	'ver1':'10',
-	'ver2':'90',
-	'ver3':'\n Atualização da base de dados para v0.0.0\n Possibilidade de enviar áudio nos status. \n Várias outras melhorias.',
-	'dli':'https://dinhonuneslc.github.io/apps/',
-	'exp985':'1'
-}
+{'ver1':'10','ver2':'90','ver3':'\n Atualização da base de dados para v0.0.0\n Possibilidade de enviar áudio nos status. \n Várias outras melhorias.','dli':'https://dinhonuneslc.github.io/apps/','exp985':'1'}

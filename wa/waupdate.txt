@@ -1,5 +1,3 @@
-{'ver1':'10', 'ver2':'91', 'ver3':'\n Atualização da base de dados para v0.0.0\n Possibilidade de enviar áudio nos status. \n Várias outras melhorias.' , 'dli':'https://google.com', 'exp985':'1'}
-
 {
 	"ver1":"10",
 	"ver2":"91",
